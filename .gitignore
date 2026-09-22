@@ -1,0 +1,18 @@
+# Build products and local environments
+build/
+dist/
+*.egg-info/
+*.o
+*.opp
+*.a
+*.so
+*.dylib
+*.dSYM/
+*.pyc
+__pycache__/
+.venv/
+/class
+/python/classy.cpp
+/python/classy.c
+/output/
+.DS_Store
